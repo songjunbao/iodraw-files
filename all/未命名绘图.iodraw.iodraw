@@ -24,7 +24,7 @@
             <mxPoint x="313" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bOV7N95bR8gm21p0RcCg-1" value="操作" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="bOV7N95bR8gm21p0RcCg-1" value="操作" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#fff2cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="243" y="70" width="140" height="130" as="geometry">
             <mxRectangle x="100" y="180" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
